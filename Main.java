@@ -28,7 +28,7 @@ public class Main {
             System.out.println("Student name:\n"+ student.getName());
             System.out.println("Student surname:\n"+ student.getSurname());
             System.out.println("Student gender:\n"+ student.getGender());
-            System.out.println("Student birthday:\n"+ student.getDateOfStart());
+            System.out.println("Student date of start:\n"+ student.getDateOfStart());
             System.out.println("Student Education Center:\n" + student.getEducationCenter().getEducationType());
             System.out.println("Kancha jyl okudu:"+student.getYearsStudied());
             System.out.println("-----------------------------------------");
